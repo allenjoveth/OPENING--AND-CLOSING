@@ -25,7 +25,7 @@ Use Opening operation
 Use Closing Operation
  
 ## Program:
-#### Developed by: ALLEN JOETH P
+#### Developed by: ALLEN JOVETH P
 #### Register.no:212223240007
 ## Import the necessary packages
 
